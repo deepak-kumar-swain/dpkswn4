@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 Would like to create a application which can make a great impact on people
 - 😄 Pronouns: He/His
 - To reach me out send a mail to dpkswn4@gmail.com
-- Follow me on Twitter, LinkedIn, and YouTube
+- Follow me on <a href="https://twitter.com/dpkswn4" target="_blank">Twitter</a>, LinkedIn, and YouTube
 - ⚡ Fun fact: I spend almost 6 hours listening songs everyday.
 
 <img src="https://github-readme-stats.vercel.app/api?username=dpkswn4&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
